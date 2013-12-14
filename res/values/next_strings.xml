@@ -397,4 +397,12 @@
     <!-- Device specific settings -->
     <string name="screen_off_gesture_settings_title">Screen off gestures</string>
 
+    <!-- Slim Shortcuts -->
+    <string name="slim_shortcut_picker">Slim Actions</string>
+    <string name="shortcut_action_select_action">Choose action:</string>
+
+    <!-- Chamber of Secrets -->
+    <string name="chamber_title">Chamber of secrets</string>
+    <string name="chamber_toast">The chamber of secrets has opened</string>
+
 </resources>
