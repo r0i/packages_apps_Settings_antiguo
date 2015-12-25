@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2016 Next-OS
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -18,7 +19,15 @@
     <!-- Status bar tweaks -->
     <PreferenceCategory
         android:title="@string/status_bar_style_title">
-
     </PreferenceCategory>
+
+    <PreferenceCategory
+            android:title="@string/network_traffic_options_title" />
+
+    <PreferenceScreen
+            android:key="network_traffic_state"
+            android:fragment="com.android.settings.NetworkTraffic"
+            android:summary="@string/network_traffic_summary"
+            android:title="@string/network_traffic_title" />
 
 </PreferenceScreen>
