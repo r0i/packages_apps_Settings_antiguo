@@ -19,6 +19,9 @@
     <!-- Next-OS settings screens -->
     <string name="header_category_personalization">Next-OS Settings</string>
     <string name="interface_settings_title">Personalization</string>
+	<!-- SystemUI Settings -->
+    <string name="system_ui_settings_title">System UI</string>
+    <string name="keywords_system_ui">statusbar navigationbar quick settings</string>>
 
     <!-- Names of categories of app ops tabs - extension of AOSP -->
     <string name="app_ops_categories_location">Location</string>
