@@ -16,6 +16,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Next-OS settings screens -->
+    <string name="header_category_personalization">Next-OS Settings</string>
+    <string name="interface_settings_title">Personalization</string>
+
     <!-- Names of categories of app ops tabs - extension of AOSP -->
     <string name="app_ops_categories_location">Location</string>
     <string name="app_ops_categories_personal">Personal</string>
