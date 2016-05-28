@@ -83,11 +83,11 @@
                 android:title="@string/security_patch"
                 android:summary="@string/device_info_default"/>
 
-        <!-- Slim firmware version -->
-        <Preference android:key="slim_version"
+        <!-- Next-OS firmware version -->
+        <Preference android:key="next_version"
                 style="?android:preferenceInformationStyle"
-                android:title="@string/slim_version_title"
-                android:summary="@string/slim_version_default"/>
+                android:title="@string/next_version_title"
+                android:summary="@string/next_version_default"/>
 
         <!-- Device FCC equipment id -->
         <Preference android:key="fcc_equipment_id"
