@@ -15,7 +15,7 @@
 <resources>
 
     <!-- Names of categories of app ops tabs - extension of AOSP -->
-    <string-array name="app_ops_categories_slim" translatable="false">
+    <string-array name="app_ops_categories" translatable="false">
         <item>@string/app_ops_categories_location</item>
         <item>@string/app_ops_categories_personal</item>
         <item>@string/app_ops_categories_messaging</item>
@@ -191,19 +191,6 @@
         <item>1</item>
         <item>2</item>
         <item>3</item>
-    </string-array>
-
-    <!-- Advanced reboot menu dev options -->
-    <string-array name="advanced_reboot_entries">
-        <item>@string/advanced_reboot_disabled</item>
-        <item>@string/advanced_reboot_hide_on_keyguard</item>
-        <item>@string/advanced_reboot_show_always</item>
-    </string-array>
-
-    <string-array name="advanced_reboot_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 
 </resources>

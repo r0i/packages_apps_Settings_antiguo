@@ -76,13 +76,13 @@
             android:id="@+id/personalization_section"
             android:title="@string/header_category_personalization" >
 
-	<!-- SystemUI Settings -->
+        <!-- Interface -->
         <dashboard-tile
-                android:id="@+id/system_ui_settings"
-                android:title="@string/system_ui_settings_title"
-                android:fragment="com.android.settings.krexus.SystemUISettings"
-                android:icon="@drawable/ic_settings_system_ui"
-                />      
+                android:id="@+id/interface_settings"
+                android:icon="@drawable/ic_settings_interface"
+                android:fragment="com.android.settings.next.InterfaceSettings"
+                android:title="@string/interface_settings_title"
+                />
 
     </dashboard-category>
 
