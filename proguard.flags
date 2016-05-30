@@ -16,6 +16,10 @@
 -keep class com.android.settings.users.*
 -keep class com.android.settings.nfc.*
 -keep class com.android.settings.notification.*
+-keep class com.android.settings.preference.*
+-keep class com.android.settings.next.*
+-keep class com.next.**
+-keep class com.next.fragments.**
 
 -keep class com.android.settings.privacyguard.*
 
