@@ -90,10 +90,6 @@
                 android:summary="@string/tap_to_wake_summary"
                 android:persistent="false" />
 
-    <PreferenceCategory
-      android:key="dashboard_category"
-      android:title="@string/dashboard_category">
-
         <ListPreference
                 android:key="dashboard_columns"
                 android:title="@string/dashboard_columns_title"
@@ -102,15 +98,6 @@
                 android:entryValues="@array/dashboard_columns_values"
                 android:summary="@string/dashboard_columns_summary"
                 android:persistent="false" />
-
-        <com.android.settings.slim.SlimSystemSettingSwitchPreference
-                android:key="dashboard_tileview_double_lines"
-                android:title="@string/dashboard_tileview_double_lines_title"
-                android:summaryOn="@string/dashboard_tileview_double_lines_summary_on"
-                android:summaryOff="@string/dashboard_tileview_double_lines_summary_off"
-                android:defaultValue="false" />
-
-        </PreferenceCategory>
 
         <com.android.settings.WarnedListPreference
                 android:key="font_size"
