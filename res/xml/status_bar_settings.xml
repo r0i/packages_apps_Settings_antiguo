@@ -30,4 +30,14 @@
             android:summary="@string/network_traffic_summary"
             android:title="@string/network_traffic_title" />
 
+        <PreferenceScreen
+            android:key="systemuituner"
+            android:title="@string/next_systemuituner"
+            android:layout="@layout/next_systemui_tuner" >
+            <intent
+                android:action="android.intent.action.MAIN"
+                android:targetPackage="com.android.systemui"
+                android:targetClass="com.android.systemui.tuner.TunerActivity" />
+       </PreferenceScreen>
+
 </PreferenceScreen>

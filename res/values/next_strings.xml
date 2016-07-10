@@ -23,6 +23,9 @@
     <!-- Status bar -->
     <string name="status_bar_title">Status bar</string>
 
+    <!-- SystemUI Tuner -->
+    <string name="next_systemuituner">SystemUI Tuner</string>
+ 
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Reset</string>
