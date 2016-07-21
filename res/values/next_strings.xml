@@ -21,7 +21,7 @@
     <string name="interface_settings_title">Personalization</string>
     
     <!-- Status bar -->
-    <string name="status_bar_title">Status bar</string>
+    <string name="status_bar_title">Status bar and SystemUI Tuner</string>
 
     <!-- SystemUI Tuner -->
     <string name="next_systemuituner">SystemUI Tuner</string>

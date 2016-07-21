@@ -32,8 +32,7 @@
 
         <PreferenceScreen
             android:key="systemuituner"
-            android:title="@string/next_systemuituner"
-            android:layout="@layout/next_systemui_tuner" >
+            android:title="@string/next_systemuituner" >
             <intent
                 android:action="android.intent.action.MAIN"
                 android:targetPackage="com.android.systemui"
