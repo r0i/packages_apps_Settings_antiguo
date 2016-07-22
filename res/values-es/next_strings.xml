@@ -279,7 +279,7 @@
     <string name="doze_schedule_title">Periodo de repetición</string>
     <string name="doze_schedule_summary_on">Intervalos predefinidos de la visualización ambiental  (normalmente [1s, 10s, 30s, 60s, 120s])</string>
     <string name="doze_schedule_summary_off">Actuar la visualización ambiental solo una vez por evento o notificación</string>
-    <string name="doze_brightness_title">>Nivel de brillo de la visualización ambiental</string>
+    <string name="doze_brightness_title">Nivel de brillo de la visualización ambiental</string>
     <string name="doze_brightness_summary">Nivel de brillo de la pantalla de visualización ambiental (% del brillo máximo permitido)</string>
     <string name="doze_wakeup_doubletap_title">Doble toque para despertar con visualización ambiental</string>
     <string name="doze_wakeup_doubletap_summary_on">Requiere un doble toque para despertar con visualización ambiental</string>
